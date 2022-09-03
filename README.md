@@ -5,7 +5,7 @@
 
 - :technologist: My name is Indy Navarro
 - 👀 I’m a chilean :chile: industrial engineer and Data Scientist living in Tokyo, Japan :jp: 
-- 🌱 My hobbiest are music, anime and coffee
+- 🌱 My hobbiest are music, coffee and programming
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me www.linkedin.com/in/indy-michael-navarro-vidal
 
