@@ -3,11 +3,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- :technologist: My name is Indy Navarro
+- :technologist: I'm Navi
 - 👀 I’m a chilean :chile: industrial engineer and Data Scientist living in Tokyo, Japan :jp: 
 - 🌱 My hobbiest are music, coffee and programming
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me www.linkedin.com/in/indy-michael-navarro-vidal
+- 📫 How to reach me [Fosstodon](https://fosstodon.org/web/@mikelech) or [Twitter](https://twitter.com/lM_Navi)
 
 ---
 
@@ -22,18 +22,5 @@
 
 
 ---
-### Keep in Contact :
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/indy-navarro/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/Indymnv">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
-<!---
-indymnv/indymnv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
