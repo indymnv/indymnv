@@ -5,7 +5,7 @@
 
 - :technologist: I'm Navi
 - 👀 I’m a chilean :chile: industrial engineer and Data Scientist living in Tokyo, Japan :jp: 
-- 🌱 Interested in areas of data science, statistics, operation research. 
+- 🌱 Interested in areas of statistical modelling, machine learning and operation research. 
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me [Fosstodon](https://fosstodon.org/web/@mikelech) or [Twitter](https://twitter.com/lM_Navi)
 
