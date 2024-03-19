@@ -3,11 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- :technologist: I'm Navi
-- 👀 I’m a chilean :chile: industrial engineer and Data Scientist living in Tokyo, Japan :jp: 
+- :technologist: I'm Navi 
 - 🌱 Interested in areas of statistical modelling, machine learning and operation research. 
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me [Fosstodon](https://fosstodon.org/web/@mikelech)
+- 📫 How to reach me [Fosstodon](https://fosstodon.org/web/@indymnv)
 - 📚 You can read my [blog](https://indymnv.dev)
 
 ---
