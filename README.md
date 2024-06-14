@@ -6,8 +6,8 @@
 - :technologist: I'm Navi 
 - 🌱 Interested in areas of statistical modelling, machine learning and operation research. 
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me [Fosstodon](https://fosstodon.org/web/@indymnv)
-- 📚 You can read my [blog](https://indymnv.dev)
+- 📫 How to reach me [Fediverse](https://fosstodon.org/web/@indymnv)
+- 📚 You can read my [blog](https://indymnv.xyz)
 
 ---
 
